@@ -5,7 +5,7 @@
   <groupId>org.example</groupId>
   <artifactId>aston-first-homework</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>aston-first-homework</name>
   <url>http://maven.apache.org</url>
